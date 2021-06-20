@@ -1,0 +1,1 @@
+Place Kaggle data sets obtained from [this link](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) into this directory for development. By default the contents of this directory will not be version controlled.
